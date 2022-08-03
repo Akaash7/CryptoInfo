@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -109,6 +114,101 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/Screen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/Screens.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/CoinDetailScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/CoinDetailState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/CoinDetailViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/CoinListScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/components/CoinDetailState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/components/CoinDetailViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/components/CoinTag.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_detail/components/TeamListItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_list/CoinListScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_list/CoinListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_list/CoinListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coin_list/components/CoinListItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coint_list/CoinListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coint_list/CoinListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coint_list/components/CoinListItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coint_list/components/CoinListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/akash/cryptoinfo/presentation/coint_list/components/CoinListViewModel.kt">
           <value>
             <set />
           </value>
